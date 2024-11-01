@@ -1,0 +1,105 @@
+Name|IfcClass|Level_name|Net Volume|Count|GlobalId
+Стена: 400.00 мм|IfcWall|1-й этаж|9.570000000000027|1|3IDEgWZseeg$RnwFUDd9bo
+Стена: 400.00 мм|IfcWall|1-й этаж|3.779999999999992|1|3Z3kcQ$4gLFMDFNRHK4rHF
+Стена: 400.00 мм|IfcWall|1-й этаж|5.309999999999891|1|12h8KLGB5HioZf4WZQVs8e
+Стена: 400.00 мм|IfcWall|1-й этаж|4.757999999999994|1|2KRPdswmgZJVh1_wiUGY8H
+Стена: 400.00 мм|IfcWall|1-й этаж|3.248999999999987|1|1RFMMEybu4SEFNDBix6uAG
+Стена: 400.00 мм|IfcWall|1-й этаж|0.936000000000017|1|2gobKt4XIJwi1D5T8utcao
+Стена: 400.00 мм|IfcWall|1-й этаж|1.896000000000009|1|0fycqqHdZ$E$_cLdwRI$9M
+Стена: 400.00 мм|IfcWall|1-й этаж|0.936000000000004|1|1e6ZnsKWsL44OdPuP38kKT
+Стена: 400.00 мм|IfcWall|1-й этаж|3.248999999999923|1|2FEx$KSu7$Gq4wu56PSEWH
+Стена: 400.00 мм|IfcWall|1-й этаж|3.929999999999993|1|2ROB_P9UpSiJN7xrkfHoGl
+Стена: 400.00 мм|IfcWall|1-й этаж|2.49999999999999|1|23VbxooM18TUBG4Z74Jfrr
+Стена: 400.00 мм|IfcWall|1-й этаж|1.14|1|1CxfLE_NABzMYgarwvkXGk
+Стена: 400.00 мм|IfcWall|1-й этаж|1.085999999999993|1|1bcMnlnNGDXoufUO8cAuu5
+Стена: 400.00 мм|IfcWall|1-й этаж|1.715999999999997|1|0EtrWnZEU797iO$dqYjKSY
+Стена: 400.00 мм|IfcWall|1-й этаж|4.821749999999984|1|0iWs86pYorcXyQTdcumLDx
+Стена: 400.00 мм|IfcWall|1-й этаж|1.650750000000056|1|3dyJ4GrqYVho0eJZ9T15R2
+Стена: 300.00 мм|IfcWall|1-й этаж|2.376|1|2mHFFeTtSw4PW8xK2uVur3
+Стена: 400.00 мм|IfcWall|1-й этаж|2.315639999999866|1|2tO$01oZKO30vUB_T6Qif$
+Стена: 400.00 мм|IfcWall|1-й этаж|5.723999999999827|1|212Ed$aIfP_6OKgW6rkNzP
+Стена: 200.00 мм|IfcWall|1-й этаж|2.411819999999988|1|2Y43_K_xeYNNPS8sMmjoH6
+Стена: 100.00 мм|IfcWall|1-й этаж|1.007910000000002|1|1l_6641zfiEwR66gpZI5MX
+Стена: 100.00 мм|IfcWall|1-й этаж|0.557910000000021|1|0vq9qu4$khZX0fQh0GSq0x
+Стена: 200.00 мм|IfcWall|1-й этаж|1.934220000000027|1|2w$P8ECzI9Z_wmKVsH87Hd
+Стена: 300.00 мм|IfcWall|1-й этаж|3.6495|1|0I608SQnB7gCpwA9YSbRFC
+Дверь - Однопольная подъемная: 3 000.00 мм x 2 500.00 мм|IfcDoor|1-й этаж|-1|1|03QuTbwjLzKH8Wm8VHiyjq
+Дверь - Однопольная распашная наружняя: 1 000.00 мм x 2 400.00 мм|IfcDoor|1-й этаж|-1|1|27zBwO19DfEN$HBf6$eB1B
+Дверь - Трехпольная распашная (глухое): 2 200.00 мм x 2 600.00 мм|IfcDoor|1-й этаж|-1|1|3oFQuMhviddqtEwSe5hJUs
+Дверь - Однопольная распашная c фрамугой (остекленное): 800.00 мм x 2 600.00 мм|IfcDoor|1-й этаж|-1|1|1LmrEbbv8ifY$BkDw4X3_h
+Дверь - Однопольная распашная наружняя: 1 000.00 мм x 2 400.00 мм|IfcDoor|1-й этаж|-1|1|2ZQkpYJZvkWOyGrrlZjqT4
+Дверь - Однопольная распашная (глухое): 870.00 мм x 2 070.00 мм|IfcDoor|1-й этаж|-1|1|3Ie6XJsDhcAsOjz9_Y$XL5
+Дверь - Однопольная распашная (глухое): 870.00 мм x 2 070.00 мм|IfcDoor|1-й этаж|-1|1|2bSjltdO6xbHOulFtSyHBZ
+Дверь - Однопольная распашная (глухое): 870.00 мм x 2 070.00 мм|IfcDoor|1-й этаж|-1|1|3xicpINsg9WjmWxyQPt8T2
+Дверь - Однопольная распашная (глухое): 870.00 мм x 2 070.00 мм|IfcDoor|1-й этаж|-1|1|0tUzvlV3Ysejy_YzhTnPyI
+Дверь - Однопольная распашная (глухое): 970.00 мм x 2 370.00 мм|IfcDoor|1-й этаж|-1|1|1fsKQ1FCB7428_0oa03S4a
+Дверь - Двупольная складчатая (остеклённое): 1 400.00 мм x 2 100.00 мм|IfcDoor|1-й этаж|-1|1|0iGPyMk_oi4F2q2I77vmRn
+Окно - Одностворчатое: 1 200.00 мм x 600.00 мм|IfcWindow|1-й этаж|-1|1|0ch_FVlfqHE_oCZgsB4SLe
+Окно - Одностворчатое: 1 200.00 мм x 600.00 мм|IfcWindow|1-й этаж|-1|1|3Y8Zv_jdVz0UepEIss2U3p
+Окно - Одностворчатое: 1 200.00 мм x 600.00 мм|IfcWindow|1-й этаж|-1|1|3elfRH9EauYrDpozgVNqdf
+Окно - Одностворчатое: 1 200.00 мм x 600.00 мм|IfcWindow|1-й этаж|-1|1|1VAo5lC04xt9F0Zx$R3KE7
+Окно - Одностворчатое: 600.00 мм x 600.00 мм|IfcWindow|1-й этаж|-1|1|112bJLfODrixKQEfheSZZ6
+Окно - Одностворчатое: 600.00 мм x 600.00 мм|IfcWindow|1-й этаж|-1|1|11SIr0kNRpZ0RILbVs7X3s
+Окно - Трехстворчатое: 2 100.00 мм x 1 800.00 мм|IfcWindow|1-й этаж|-1|1|04F2ihbnhkrkjK0d2h_DmU
+Окно - Трехстворчатое с фрамугой: 1 800.00 мм x 1 800.00 мм|IfcWindow|1-й этаж|-1|1|3wXaivxtQu8ZlZFZO0f6DG
+Окно - Одностворчатое с фрамугой: 600.00 мм x 1 800.00 мм|IfcWindow|1-й этаж|-1|1|258TvleeVpm6QxQKAUbON$
+Окно - Одностворчатое с фрамугой: 600.00 мм x 1 800.00 мм|IfcWindow|1-й этаж|-1|1|1kycawV4D81dXXjgC$EFLM
+Окно - Двустворчатое с фрамугой и разными створками: 1 400.00 мм x 1 600.00 мм|IfcWindow|1-й этаж|-1|1|3c7hYFzORMaPbXQwr$c0NH
+Окно - Одностворчатое с фрамугой: 600.00 мм x 1 600.00 мм|IfcWindow|1-й этаж|-1|1|3DqbxmpHk7RZ7iVT0ViWhf
+Окно - Одностворчатое: 1 200.00 мм x 600.00 мм|IfcWindow|1-й этаж|-1|1|1XvYTalAENQYeMIvSKQiBO
+Колонна - Прямоугольная 200x200|IfcColumn|1-й этаж|0.112664442783434|1|24s2WTE230uVCMpABwewFH
+Колонна - Прямоугольная 200x200|IfcColumn|1-й этаж|0.112664442783435|1|3ZZpg7C_CNTUvpxzN75M8Y
+Колонна - Прямоугольная 200x200|IfcColumn|1-й этаж|0.112664442783434|1|3mqv2ALvc34bjtOrv7PDKQ
+Колонна - Прямоугольная 200x200|IfcColumn|1-й этаж|0.11923184649128|1|2QuDJMjj0IY9ze_zedwz8D
+Колонна - Прямоугольная 200x200|IfcColumn|1-й этаж|0.119231846491276|1|0BPOXTQs7rGe4YktPDXqEu
+Перекрытие: 150.00 мм|IfcSlab|1-й этаж|7.208999999999942|1|2cEE82rthSlpC5FqXz2R1I
+Перекрытие: 600.00 мм|IfcSlab|1-й этаж|0.539999999999982|1|3AeW9YDL7S4juS4LzS_7bt
+Перекрытие: 600.00 мм|IfcSlab|1-й этаж|0.539999999999984|1|0PrdniABuErpL83KX6QPoU
+Перекрытие: 600.00 мм|IfcSlab|1-й этаж|18.323239291354714|1|3lxFKhRWjRcPJKGE_qhojw
+Перекрытие: 150.00 мм|IfcSlab|1-й этаж|2.866500000000035|1|0ujUH80Rp2XQFRLgRbs9qz
+Перекрытие: 600.00 мм|IfcSlab|1-й этаж|41.57400000000001|1|2sAzdZBe7gAynzWoovlf0C
+Стена: 400.00 мм|IfcWall|2-й этаж|6.403290855810464|1|0$KJ2g3$LEZLY7bie6wklb
+Стена: 400.00 мм|IfcWall|2-й этаж|1.451665196636132|1|2zzGWZ5IV_XIf_QHiCkqvG
+Стена: 400.00 мм|IfcWall|2-й этаж|3.412029270203338|1|2Xmqc_s4oMv8xupOLiuGn$
+Стена: 400.00 мм|IfcWall|2-й этаж|5.634777253922788|1|1ddIf5SOxTsfI2fxZ2Jrm6
+Стена: 400.00 мм|IfcWall|2-й этаж|1.167210297713154|1|0yPw9SlYi5FRndQG5vfAR1
+Стена: 400.00 мм|IfcWall|2-й этаж|5.717562332528897|1|031WgN9HAR0oo_70I82pK$
+Стена: 400.00 мм|IfcWall|2-й этаж|0.436066696237877|1|1LiOeHJNtaRUcojzHNQf3x
+Стена: 400.00 мм|IfcWall|2-й этаж|5.127442895524751|1|3gfj6et3hdDJd$QMqgcwQV
+Стена: 400.00 мм|IfcWall|2-й этаж|5.335848285811391|1|0MQp9t07cH1dmlIJ5aBRjx
+Стена: 400.00 мм|IfcWall|2-й этаж|0.120000000000001|1|1HZFWxUg7IT2_hYGIgcRGc
+Стена: 400.00 мм|IfcWall|2-й этаж|0.336000000000001|1|0XQXfQUNEklsSWDce9GqqB
+Стена: 400.00 мм|IfcWall|2-й этаж|0.120000000000001|1|37ioeWBBpY9idUHO7WBvBS
+Стена: 300.00 мм|IfcWall|2-й этаж|9.111446159709443|1|2mKdk_w40kTpsjLRWoXRtk
+Стена: 200.00 мм|IfcWall|2-й этаж|4.122772915661183|1|1cVdTEF30TGmKLoiLhAFgJ
+Стена: 200.00 мм|IfcWall|2-й этаж|3.158232684238148|1|3y7VJD5HDws$IOe2xR$ZnJ
+Стена: 200.00 мм|IfcWall|2-й этаж|3.512431917499718|1|30AaW55U4Uvu5bhwL4J7XR
+Стена: 200.00 мм|IfcWall|2-й этаж|0.958649033117523|1|3xgUBsYsfwVDFvtv7krcz0
+Стена: 200.00 мм|IfcWall|2-й этаж|0.470027771351885|1|1qRgD0HUZM1YBDLnLS4jVS
+Стена: 400.00 мм|IfcWall|2-й этаж|1.258791163609527|1|2NkSuTQClsmnnoIlI9W9cH
+Стена: 400.00 мм|IfcWall|2-й этаж|1.402043520864168|1|0QAwIRd_5bptVcwrd972Jp
+Стена: 400.00 мм|IfcWall|2-й этаж|13.750589044451617|1|0ULXScOEjI3Ar_Q4sK5G94
+Стена: 200.00 мм|IfcWall|2-й этаж|0.470027771351909|1|390nL8xSQ7vf_SqDRs_BFH
+Стена: 400.00 мм|IfcWall|2-й этаж|4.490647574796143|1|3xl5G2MffdQOQvAd9IUzFU
+Стена: 400.00 мм|IfcWall|2-й этаж|4.490647574795906|1|1nAsuGuYduxrwx7tYQqJYq
+Дверь - Трехпольная распашная (остекленное): 1 500.00 мм x 2 100.00 мм|IfcDoor|2-й этаж|-1|1|0Ef$n6UCsTTnO8F62cQmUl
+Дверь - Однопольная распашная (остекленное): 900.00 мм x 2 100.00 мм|IfcDoor|2-й этаж|-1|1|26w5UIR93eYG3i2mtWwvZv
+Дверь - Однопольная распашная (глухое): 870.00 мм x 2 070.00 мм|IfcDoor|2-й этаж|-1|1|2bgPSfmQgKG3LQeR8yYxre
+Дверь - Однопольная распашная (глухое): 870.00 мм x 2 070.00 мм|IfcDoor|2-й этаж|-1|1|1zkyuovFtKRlWa15J7Pxx$
+Дверь - Двупольная складчатая (остеклённое): 1 400.00 мм x 2 100.00 мм|IfcDoor|2-й этаж|-1|1|20cU3vUNjQprZCagywzOm5
+Дверь - Однопольная распашная (глухое): 770.00 мм x 2 070.00 мм|IfcDoor|2-й этаж|-1|1|2BN7eDcRNwBBpuJyj$m$r1
+Дверь - Однопольная распашная (глухое): 770.00 мм x 2 070.00 мм|IfcDoor|2-й этаж|-1|1|2UO1fkHwbAerci7DjhUUyu
+Дверь - Двупольная складчатая (остеклённое): 1 400.00 мм x 2 100.00 мм|IfcDoor|2-й этаж|-1|1|1X38qkxeN7r39qxmSQkxKN
+Окно - Двустворчатое: 1 400.00 мм x 1 600.00 мм|IfcWindow|2-й этаж|-1|1|3VYoKtFODXP4w8qwdiQanI
+Окно - Двустворчатое: 1 400.00 мм x 1 600.00 мм|IfcWindow|2-й этаж|-1|1|1lG7A9IimhR$$PamwmLlhY
+Окно - Одностворчатое: 600.00 мм x 1 400.00 мм|IfcWindow|2-й этаж|-1|1|2fWkSqXC_k6G5dLtsVeBLZ
+Окно - Одностворчатое: 600.00 мм x 1 400.00 мм|IfcWindow|2-й этаж|-1|1|1xgjqsxPegnMpEsLBAenhw
+Окно - Одностворчатое: 1 200.00 мм x 600.00 мм|IfcWindow|2-й этаж|-1|1|2L3DPUIFJhMR3LFsuBINhW
+Окно - Двустворчатое: 1 600.00 мм x 1 400.00 мм|IfcWindow|2-й этаж|-1|1|1PAdRzPcShQLsBym1OjklV
+Перекрытие: 300.00 мм|IfcSlab|2-й этаж|13.770000000000183|1|1nQfWED1n0e9Cb1LKZFicR
+Перекрытие: 200.00 мм|IfcSlab|2-й этаж|0.199999999999999|1|0Klpi5QLP9rBtBDceCNMx4
+Перекрытие: 300.00 мм|IfcSlab|2-й этаж|15.113999999999738|1|3PWl4NR14uaCqyULggIFXx
+Перекрытие: 300.00 мм|IfcSlab|2-й этаж|2.268000000000014|1|2x1RXOgzsuxO9bZLKRyyxg
+Перекрытие: 200.00 мм|IfcSlab|2-й этаж|0.78|1|19KMKXP9WfvlaEg_S14LJG
+Перекрытие: 300.00 мм|IfcSlab|2-й этаж|4.967999999999933|1|1n9BJAsDMke9gvUpRTqkkv
+Перекрытие: 200.00 мм|IfcSlab|2-й этаж|0.860000000000001|1|2prJUbCNIqPEF69YHJuAk9
